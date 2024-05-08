@@ -2,6 +2,7 @@
 
 ### 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/Email-adilarbibdev%40gmail.com-blue)](mailto:adilarbibdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adil%20Arbib-blue)](https://www.linkedin.com/in/adil-arbib-44b568296/)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=adil-arbib.adil-arbib)
 
 ## 👨‍💻 About Me:
